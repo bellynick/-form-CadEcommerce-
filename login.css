@@ -1,0 +1,28 @@
+html, body{
+    padding: 30%;
+    height: 30%;
+}
+body{
+    background-color: rgb(234, 170, 236);
+    display: flex; /*Comportamento do elemento na página*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* Estilização do container*/
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 50%;
+}
+.form{
+   background-color: rgb(220, 181, 221);
+   padding: 30px;
+   padding-top: 20%;
+   border-radius: 30px;
+   color: rgb(117, 17, 117);
+   box-shadow: 0 0 30px rgb(88, 3, 77);
+}
+h3{
+    text-align: center;
+}
