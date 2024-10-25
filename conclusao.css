@@ -1,6 +1,5 @@
 body{
-    background-color:  rgb(237, 157, 240);
-    font-size: large;
+    background-color: rgb(177, 100, 164);
 }
  
 form{
@@ -16,8 +15,8 @@ form{
 }
  
 button{
-    background-color: rgb(146, 12, 139);
-    color: rgb(226, 199, 238);
+    background-color: rgb(97, 16, 86);
+    color: rgb(238, 181, 235);
     width: 80px;
     height: 30px;
     font-weight: bolder;
