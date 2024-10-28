@@ -1,9 +1,9 @@
 body{
-    background-color: rgb(177, 100, 164);
+    background-color: rgb(245, 197, 237);
 }
  
 form{
-    color: rgb(10, 9, 9);
+    color: rgb(117, 6, 101);
 }
  
 .container{
@@ -15,7 +15,7 @@ form{
 }
  
 button{
-    background-color: rgb(97, 16, 86);
+    background-color: rgb(226, 177, 220);
     color: rgb(238, 181, 235);
     width: 80px;
     height: 30px;
